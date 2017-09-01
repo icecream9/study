@@ -2,3 +2,4 @@
 print 'hello world'
 print 'i can\' speak chinese'
 print('hello')
+print "my pycharm not suppot chinese"
